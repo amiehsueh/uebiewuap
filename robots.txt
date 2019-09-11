@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aamukeishu.chinadapp.net/sitemap.xml
